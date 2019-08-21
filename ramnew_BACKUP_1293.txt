@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-ithis id from local 
-=======
-ramnew_txt is created
->>>>>>> origin/master
